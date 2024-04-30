@@ -1,6 +1,6 @@
 # myweb
 Hi there 👋
-QepwebSafor/QepwebSafor is a ✨ special ✨ repository because its README.md appears on my GitHub profile.
+QepwebSafor is a ✨ special ✨ repository because its README.md appears on my GitHub profile.
 
 myweb
 
