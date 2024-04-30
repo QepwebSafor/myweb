@@ -2,8 +2,7 @@
 Hi there 👋
 QepwebSafor/QepwebSafor is a ✨ special ✨ repository because its README.md appears on my GitHub profile.
 
-myapp
-In unbuntu
+myweb
 
 Creado por Quica Espi Puig
 
